@@ -20,7 +20,7 @@ required library: paper.js
 See inside the script for details.
 
 ----
-**about required library:**
+**about required library:**  
 Paper.js - a JavaScript Vector Graphics Library.  
 Copyright (c) 2011, Juerg Lehni & Jonathan Puckey  
 [http://paperjs.org/](http://paperjs.org/)  
