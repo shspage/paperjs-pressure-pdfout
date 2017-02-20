@@ -15,12 +15,20 @@ generatePdfFromPaperJs-v0.121.js
 ======================
 generates PDF data from PaperScope object (paper) of Paper.js.
 
-required library: paper.js
+**required library:** paper.js
 
 See inside the script for details.
 
-----
-**about required library:**  
+License  
+======================
+Copyright(c) 2013 Hiroyuki Sato  
+[https://github.com/shspage](https://github.com/shspage)  
+This script is distributed under the MIT License.  
+See the LICENSE file for details.  
+
+This software uses the following library that may have a license differing from that of the software itself.
+You can find the library and its respective license below.
+
 Paper.js - a JavaScript Vector Graphics Library.  
 Copyright (c) 2011, Juerg Lehni & Jonathan Puckey  
 [http://paperjs.org/](http://paperjs.org/)  
